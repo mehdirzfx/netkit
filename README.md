@@ -79,7 +79,7 @@ flutter run
 - You can also enter any IP address to get its details (country, city, ISP)
 
 ### Proxy Testing
-1. Enter your proxy (e.g., `192.168.1.1:8080`)
+1. Enter your proxy (e.g., `192.168.1.2:8080`)
 2. Click **Test Proxy**
 3. App pings the proxy and shows response time
 4. Compare multiple proxies to find the fastest one
